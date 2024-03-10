@@ -1,0 +1,3 @@
+D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\MyCalc\x64\Debug\MyCalc.vcxproj.AssemblyReference.cache
+D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\MyCalc\x64\Debug\MyCalc.MyForm.resources
+D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\MyCalc\x64\Debug\MyCalc.vcxproj.GenerateResource.cache

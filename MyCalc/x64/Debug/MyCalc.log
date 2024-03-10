@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\MyCalc\MyForm.h(206,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\MyCalc\MyForm.h(211,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\MyCalc\MyForm.h(216,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\MyCalc\MyForm.h(221,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyCalc.vcxproj -> D:\LUUHAIHOA\c++\MyProj\graphics\MyCalc\x64\Debug\MyCalc.exe
